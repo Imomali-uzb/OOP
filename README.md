@@ -1,1 +1,1 @@
-# OOP_Hypocycloid
+# Object oriented programming
